@@ -1,3 +1,3 @@
-# StartPolymer authors
+# The StartPolymer Project Authors
 
-Official list of StartPolymer authors for copyright purposes.
+Official list of the StartPolymer Project Authors for copyright purposes.
